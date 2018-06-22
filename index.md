@@ -4,9 +4,17 @@ You can use the [editor on GitHub](https://github.com/Pragmatists/tdd-bosch/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Ćwiczenie 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Sciagnij https://github.com/Pragmatists/jasmine-standalone-example  i uruchom przykładowe testy w przeglądarce
+2. Przetestuj, że player jest w stanie odtworzyć piosenkę, pazować piosenkę i odtworzyć zapauzowaną piosenkę
+3. Umieść kod tworzenia obiektu Player i Song do metody uruchamianej przed każdym testem
+4. Zignoruj jeden test tak aby się nie uruchamiał
+5. Uruchom tylko jeden wybrany test
+
+**Materiały**
+Podstawy Jasmine: https://jasmine.github.io/2.3/introduction.html
+Visual Studio Code plugin Jasmine Code Snippets
 
 ```markdown
 Syntax highlighted code block
