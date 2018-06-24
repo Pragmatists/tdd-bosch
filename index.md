@@ -1,20 +1,40 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Pragmatists/tdd-bosch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Ćwiczenie 1
+## Workshop 1
 
-1. Sciagnij https://github.com/Pragmatists/jasmine-standalone-example  i uruchom przykładowe testy w przeglądarce
-2. Przetestuj, że player jest w stanie odtworzyć piosenkę, pazować piosenkę i odtworzyć zapauzowaną piosenkę
-3. Umieść kod tworzenia obiektu Player i Song do metody uruchamianej przed każdym testem
-4. Zignoruj jeden test tak aby się nie uruchamiał
-5. Uruchom tylko jeden wybrany test
+1. Download https://github.com/Pragmatists/jasmine-standalone-example and run example tests in browser
+2. Add tests to check that
+- Player is able to play a song
+- pasue a song
+- resume paused song
+3. Move code that creates Palyer and Song object to method called before each test
+4. Make one of the tests ignored
+5. Run only one of tests
 
-**Materiały**
-Podstawy Jasmine: https://jasmine.github.io/2.3/introduction.html
-Visual Studio Code plugin Jasmine Code Snippets
+### 
+Jasmine introduction: https://jasmine.github.io/2.3/introduction.html
+Visual Studio Code plugin: Jasmine Code Snippets
+
+
+## Workshop 2
+
+https://github.com/Pragmatists/fizzbuzz-kata-js
+
+
+## Workshop 3
+
+https://github.com/Pragmatists/roman-numerals-js 
+
+###
+
+https://facebook.github.io/jest/docs/en/api.html
+https://facebook.github.io/jest/docs/en/expect.html 
+
+## Workshop 4
+
+https://github.com/Pragmatists/snow-mocks-kata-javascript
 
 ```markdown
 Syntax highlighted code block
