@@ -5,7 +5,7 @@
 
 [https://github.com/Pragmatists/jasmine-standalone-example](https://github.com/Pragmatists/jasmine-standalone-example)  
 
-### 
+*info*
 Jasmine introduction: [https://jasmine.github.io/2.3/introduction.html](https://jasmine.github.io/2.3/introduction.html)  
 Visual Studio Code plugin: Jasmine Code Snippets  
 
@@ -19,7 +19,7 @@ Visual Studio Code plugin: Jasmine Code Snippets
 
 [https://github.com/Pragmatists/roman-numerals-js](https://github.com/Pragmatists/roman-numerals-js)  
 
-###
+*info*    
 
 [https://facebook.github.io/jest/docs/en/api.html](https://facebook.github.io/jest/docs/en/api.html)  
 [https://facebook.github.io/jest/docs/en/expect.html](https://facebook.github.io/jest/docs/en/expect.html)  
@@ -29,7 +29,7 @@ Visual Studio Code plugin: Jasmine Code Snippets
 
 [https://github.com/Pragmatists/snow-mocks-kata-javascript](https://github.com/Pragmatists/snow-mocks-kata-javascript)  
 
-###
+*info*   
 [https://facebook.github.io/jest/docs/en/mock-function-api](https://facebook.github.io/jest/docs/en/mock-function-api)  
 [https://facebook.github.io/jest/docs/en/expect](https://facebook.github.io/jest/docs/en/expect)  
 
