@@ -12,7 +12,7 @@ Visual Studio Code plugin: Jasmine Code Snippets
 
 ## Workshop 2 (the one with Fizz&Buzz)
 
-[https://github.com/Pragmatists/fizzbuzz-kata-js](https://github.com/Pragmatists/fizzbuzz-kata-js)  
+[https://github.com/Pragmatists/fizzbuzz-kata-js/tree/jasmine-karma](https://github.com/Pragmatists/fizzbuzz-kata-js/tree/jasmine-karma)  
 
 
 ## Workshop 3 (the one with Roman numbers)
