@@ -33,3 +33,13 @@
 - [https://facebook.github.io/jest/docs/en/mock-function-api](https://facebook.github.io/jest/docs/en/mock-function-api)  
 - [https://facebook.github.io/jest/docs/en/expect](https://facebook.github.io/jest/docs/en/expect)  
 
+## Workshop 5 
+
+[https://github.com/Pragmatists/async-tests](https://github.com/Pragmatists/async-tests)
+
+- [http://jestjs.io/docs/en/timer-mocks](http://jestjs.io/docs/en/timer-mocks)
+
+## Workshop 6
+
+[https://github.com/Pragmatists/jquery-jest](https://github.com/Pragmatists/jquery-jest)
+
