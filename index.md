@@ -47,5 +47,9 @@
 
 [https://github.com/Pragmatists/jquery-jest](https://github.com/Pragmatists/jquery-jest)
 
+## NightWatch
+
+[https://github.com/Pragmatists/night-watch-examples](https://github.com/Pragmatists/night-watch-examples)
+
 
 
