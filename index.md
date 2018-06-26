@@ -46,6 +46,7 @@
 [https://github.com/Pragmatists/async-tests](https://github.com/Pragmatists/async-tests)
 
 - [http://jestjs.io/docs/en/timer-mocks](http://jestjs.io/docs/en/timer-mocks)
+- [http://jestjs.io/docs/en/asynchronous.html](http://jestjs.io/docs/en/asynchronous.html)
 
 ------------------------------------------
 
