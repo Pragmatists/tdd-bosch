@@ -39,7 +39,13 @@
 
 - [http://jestjs.io/docs/en/timer-mocks](http://jestjs.io/docs/en/timer-mocks)
 
-## Workshop 6
+## async examples
+
+[https://github.com/Pragmatists/async-jest](https://github.com/Pragmatists/async-jest)
+
+## Workshop 7
 
 [https://github.com/Pragmatists/jquery-jest](https://github.com/Pragmatists/jquery-jest)
+
+
 
