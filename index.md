@@ -59,6 +59,8 @@
 
 [https://github.com/Pragmatists/jquery-jest](https://github.com/Pragmatists/jquery-jest)
 
+[https://facebook.github.io/jest/docs/en/tutorial-jquery.html](https://facebook.github.io/jest/docs/en/tutorial-jquery.html)
+
 ------------------------------------------
 
 ## Nightwatch
