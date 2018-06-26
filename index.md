@@ -25,7 +25,13 @@
 
 ------------------------------------------
 
-## Workshop 4 (the one with snow mocks)
+## Workshop 4 (Bonus calculator)
+
+[https://github.com/Pragmatists/bonus-calculator](https://github.com/Pragmatists/bonus-calculator)
+
+------------------------------------------
+
+## Workshop 5 (Winter is comming)
 
 [https://github.com/Pragmatists/snow-mocks-kata-javascript](https://github.com/Pragmatists/snow-mocks-kata-javascript)  
 
@@ -33,21 +39,29 @@
 - [https://facebook.github.io/jest/docs/en/mock-function-api](https://facebook.github.io/jest/docs/en/mock-function-api)  
 - [https://facebook.github.io/jest/docs/en/expect](https://facebook.github.io/jest/docs/en/expect)  
 
-## Workshop 5 
+------------------------------------------
+
+## Workshop 6 
 
 [https://github.com/Pragmatists/async-tests](https://github.com/Pragmatists/async-tests)
 
 - [http://jestjs.io/docs/en/timer-mocks](http://jestjs.io/docs/en/timer-mocks)
 
+------------------------------------------
+
 ## async examples
 
 [https://github.com/Pragmatists/async-jest](https://github.com/Pragmatists/async-jest)
+
+------------------------------------------
 
 ## Workshop 7
 
 [https://github.com/Pragmatists/jquery-jest](https://github.com/Pragmatists/jquery-jest)
 
-## NightWatch
+------------------------------------------
+
+## Nightwatch
 
 [https://github.com/Pragmatists/night-watch-examples](https://github.com/Pragmatists/night-watch-examples)
 
